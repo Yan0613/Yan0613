@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Golang, React, Springboot**  
 - 🚀 I use daily: **Go, Python, C/C++, Java, JavaScript**  
 - 📫 How to reach me: minxiyan@hhu.edu.cn
+- 💻 When I'm not doing development, I like do some research.
 
 ## My Github Profile
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yan0613&show_icons=true) -->
