@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/followers/Yan0613?color=brightgreen)  
 - 🔭 I’m currently studying at Hohai University, and I'm a RA at Fan Liu's lab.  
 - 🌱 I’m currently learning **Golang, Springboot**  
-- 🚀 I use daily: **Go, Python, C/C++, Java**  
+- 🚀 I use daily: **Go, Python, Java, C/C++**  
 - 📫 How to reach me: minxiyan@hhu.edu.cn
 - 💻 When I'm not doing development, I like doing some research.
 - 🙌 Enjoy coding
