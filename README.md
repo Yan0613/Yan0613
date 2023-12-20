@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Golang, Springboot**  
 - 🚀 I use daily: **Java, Go, Python, C/C++**  
 - 📫 How to reach me: minxiyan@hhu.edu.cn
-- 💻 When I'm not doing development, I like doing some research.
+- 💻 When I'm not doing development, I like doing some research. My research interests: Transfer learning, Domain Adaptation.
 - 🙌 Enjoy coding
 
 ## My Github Profile
