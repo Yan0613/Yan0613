@@ -7,7 +7,6 @@
 - 🚀 I use daily: **Java, Python, C/C++, Go**  
 - 📫 How to reach me: minxiyan@hhu.edu.cn
 - 💻 When I'm not doing development, I like doing some research. My research interest: Transfer learning, Domain Adaptation.
-- 🙌 Enjoy coding
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yan0613&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan0613&layout=compact)](https://github.com/Yan0613/github-readme-stats)
