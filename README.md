@@ -9,5 +9,5 @@
 - ✍️ Research intern at THU, supervised by Professor Yan Wang.
 - 📫 My wechat is NoelYan0613, feel free to talk with me.🍻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan0613&layout=compact)](https://github.com/Yan0613/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan0613&layout=compact)](https://github.com/Yan0613/github-readme-stats)--->
 
