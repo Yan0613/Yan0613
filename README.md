@@ -5,6 +5,6 @@
 <!-- <img alt="Time Stats" src="https://github-readme-stats.vercel.app/api?username=Yan0613&show_icons=true&theme=transparent&hide_border=true" align="right" />    -->
 🎓 Undergraduate student at Hohai University, postgraduate student at CUHK.  
 📍 I'm interested in LLM/VLM Understanding&Reasoning, AI Efficiency. Also, I was previously active in the [Dubbo community](https://cn.dubbo.apache.org/zh-cn/).  
-📫 You can reach me on WeChat at NoelYan0613 or via email at tg-tiger@outlook.com. Feel free to get in touch! 🍻  
+📫 You can reach me on tg-tiger@outlook.com. Feel free to get in touch! 🍻  
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan0613&layout=compact)](https://github.com/Yan0613/github-readme-stats)--->
 
