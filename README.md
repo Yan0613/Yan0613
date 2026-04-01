@@ -5,6 +5,6 @@
 <!-- <img alt="Time Stats" src="https://github-readme-stats.vercel.app/api?username=Yan0613&show_icons=true&theme=transparent&hide_border=true" align="right" />    -->
 🎓 M.S. student @ CUHK, B.Eng. @ HHU, Algorithm Engineer @ Tencent.  
 📍 I'm interested in (M)LLM Reasoning, AI Efficiency, DeepResearch Agent, LLM4Rec, LLM TTS/TTT.  
-📫 You can reach me on tg-tiger@outlook.com. Feel free to get in touch! 🍻  
+📫 You can reach me at tg-tiger@outlook.com. Feel free to get in touch! 🍻  
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan0613&layout=compact)](https://github.com/Yan0613/github-readme-stats)--->
 
